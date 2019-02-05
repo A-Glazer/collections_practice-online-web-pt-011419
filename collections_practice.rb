@@ -39,7 +39,5 @@ def add_s (arr)
     else
     word << "s"
   end
-
-
   end
 end
